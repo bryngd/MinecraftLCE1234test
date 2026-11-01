@@ -3,11 +3,11 @@
 ## About
 
 This is the rewrite from scratch of Minecraft Legacy Console Edition.
-The goal of this repository is to keep it able to build for the 7th Generation Consoles (Xbox 360, PS3 and PSVita).
 
 
 
-## Building
+
+## Building 7th gen
 
 ### Requirements
 
